@@ -1,5 +1,7 @@
-# Fitting Poisson  distribution
+# EXP 02 - Fitting Poisson  distribution
 
+###  Name : LOKNAATH.P
+### Register Number : 212223240080
 
 
 ## Aim : 
